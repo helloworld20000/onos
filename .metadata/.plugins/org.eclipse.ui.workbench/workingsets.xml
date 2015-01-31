@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421414184805_1" label="onos" name="onos">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/utils" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-core-store" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-core-serializers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-tvue" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-gui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-provider-link" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-misc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-proxyarp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-drivers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-fwd" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-provider-device" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-ctl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-provider-packet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-nio" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-metrics-topology" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-junit" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-provider-host" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-election" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-mobility" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-core-net" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-thirdparty" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-providers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-metrics-intent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-oecfg" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-of-provider-flow" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-host-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-core-dist" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-branding" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-lldp-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-core-trivial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-netty" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-optical" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/providers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-metrics" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-ifwd" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-json" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-calendar" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onlab-osgi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/openflow" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/features" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/onos-app-sdnip" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421413352143_0" label="Window Working Set" name="Aggregate for window 1421413352143"/>
+</workingSetManager>
